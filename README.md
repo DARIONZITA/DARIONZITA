@@ -63,5 +63,5 @@
 
 <p align="center">
   <b>Let's Connect & Build Scalable Systems:</b><br/>
-  <a href="https://linkedin.com">LinkedIn</a> • <a href="mailto:darionzita@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/d%C3%A1rio-nzita-633728238/">LinkedIn</a> • <a href="mailto:dariozongogarcianzita@gmail.com">Email</a>
 </p>
